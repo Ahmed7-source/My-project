@@ -1,9 +1,8 @@
 // Miscellaneous
-// ????? 
 
 // Lesson #08 - Library: Create Your Own Library : A library is like a bag where you put the things you need.
 
-// Lesson #09 - Ternary Operator: Short Hand IF : example ?
+// Lesson #09 - Ternary Operator: Short Hand IF : example 
 #include <iostream>
 using namespace std;
 int main() {
@@ -17,7 +16,7 @@ int main() {
 }
 
 
-// Lesson #10 - Ranged Loop : example ?
+// Lesson #10 - Ranged Loop : example 
 #include<iostream>
 using namespace std;
 int main()
@@ -29,7 +28,7 @@ int main()
 	return 0;
 }
 
-// Lesson #11 - Validate Number : example ?
+// Lesson #11 - Validate Number : example 
 #include <iostream>
 using namespace std;
 int ReadNumber()
@@ -52,7 +51,7 @@ int main()
 	cout << "Your Number is:" << ReadNumber();
 }
 
-// Lesson #12 - Bitwise AND operator : example ?
+// Lesson #12 - Bitwise AND operator : example 
 #include <iostream>
 using namespace std;
 int main()
@@ -60,7 +59,7 @@ int main()
 	cout << "Result:" << (12 & 25);
 }
 
-// Lesson #13 - Bitwise OR operator : example ?
+// Lesson #13 - Bitwise OR operator : example 
 #include <iostream>
 using namespace std;
 int main()
